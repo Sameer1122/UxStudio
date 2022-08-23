@@ -1,5 +1,5 @@
 /*------------------------------------------------------------------
-Project:	Humpton - Creative Portfolio Template
+Project:	 Hamna -Welcome to HamnaStudio
 Version:	1.0
 Last change:	15/08/2022
 Assigned to:	www.ClaPat.com 
@@ -1313,7 +1313,7 @@ Primary use:	Showcase Portfolio
 	@keyframes rotating {
       0% {
 		-webkit-transform: translate(-14px, -14px)rotate(0deg);
-		transform:  translate(-14px, -14px)) rotate(0deg);
+		transform:  translate(-14px, -14px) rotate(0deg);
       }
 	  
 	  95% {
